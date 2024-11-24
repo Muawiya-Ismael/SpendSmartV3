@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpendSmartV3.Data\SpendSmartV3.Data.csproj" />
+    <ProjectReference Include="..\SpendSmartV3.Objects\SpendSmartV3.Objects.csproj" />
+  </ItemGroup>
+
+</Project>
